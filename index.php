@@ -14,6 +14,6 @@ and open the template in the editor.
         // put your code here
         ?>
         
-        hola desde  php 123
+        hola desde  php
     </body>
 </html>
